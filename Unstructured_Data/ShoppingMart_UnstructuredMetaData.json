@@ -11,7 +11,7 @@
 
     },
     {
-        "source_url" : "refs/heads/main/ShoppingMart_UnstructuredData/web_logs.json",
+        "source_url" : "/refs/heads/main/Unstructured_Data/web_logs.json",
         "sink_folder" : "ShoppingMart_Bronze_Web_Logs",
         "sink_file" : "ShoppingMart_web_logs.json"
 
