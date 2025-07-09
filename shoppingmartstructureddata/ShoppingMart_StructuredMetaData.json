@@ -5,7 +5,7 @@
         "sink_file" : "ShoppingMart_orders.csv"
     },
     {
-         "source_url" : "refs/heads/main/ShoppingMart_StructuredData/customers.csv",
+         "source_url" : "refs/heads/main/shoppingmartstructureddata/customers.csv",
         "sink_folder" : "ShoppingMart_Bronze_Customers",
         "sink_file" : "ShoppingMart_customers.csv"
 
