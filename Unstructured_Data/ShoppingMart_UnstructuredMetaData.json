@@ -5,7 +5,7 @@
         "sink_file" : "ShoppingMart_review.json"
     },
     {
-         "source_url" : "refs/heads/main/ShoppingMart_UnstructuredData/social_media.json",
+         "source_url" : "refs/heads/main/Unstructured_Data/social_media.json",
         "sink_folder" : "ShoppingMart_Bronze_Social_Media",
         "sink_file" : "ShoppingMart_social_media.json"
 
