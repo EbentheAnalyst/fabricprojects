@@ -1,6 +1,6 @@
 [
     {
-        "source_url" : "refs/heads/main/ShoppingMart_UnstructuredData/reviews.json",
+        "source_url" : "refs/heads/main/Unstructured_Data/reviews.json",
         "sink_folder" : "ShoppingMart_Bronze_Reviews",
         "sink_file" : "ShoppingMart_review.json"
     },
